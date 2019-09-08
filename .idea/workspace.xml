@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c0a77957-6320-4749-afa7-96a5c03f03d1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/encrypt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +14,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
